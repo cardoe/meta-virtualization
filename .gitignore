@@ -1,4 +1,7 @@
 build*/
+poky/
+.python-history
+.bash_history
 pyshtables.py
 *.swp
 *.orig
